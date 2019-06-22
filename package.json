@@ -8,5 +8,8 @@
   },
   "repository": "https://github.com/cinderblock/yarn-install-bug-test.git",
   "author": "Cameron Tacklind <cameron@tacklind.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
 }
