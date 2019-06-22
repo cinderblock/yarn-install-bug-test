@@ -1,5 +1,5 @@
 {
-  "name": "yarn-install-bug-test",
+  "name": "yarn-install-bug-test-b",
   "version": "0.0.0",
   "description": "Test repo for exploring issues with yarn install",
   "main": "index.js",
@@ -8,8 +8,5 @@
   },
   "repository": "https://github.com/cinderblock/yarn-install-bug-test.git",
   "author": "Cameron Tacklind <cameron@tacklind.com>",
-  "license": "MIT",
-  "dependencies": {
-    "yarn-install-bug-test": "https://github.com/cinderblock/yarn-install-bug-test.git"
-  }
+  "license": "MIT"
 }
