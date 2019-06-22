@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "yarn-install-bug-test-b": "https://github.com/cinderblock/yarn-install-bug-test.git#b"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
   }
 }
