@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
-"yarn-install-bug-test@https://github.com/cinderblock/yarn-install-bug-test.git":
+"yarn-install-bug-test-a@https://github.com/cinderblock/yarn-install-bug-test.git#a":
   version "0.0.0"
-  resolved "https://github.com/cinderblock/yarn-install-bug-test.git#e4ed14eb7ac3ed925fefe2cd718183b8e04d5367"
+  resolved "https://github.com/cinderblock/yarn-install-bug-test.git#c834fb443d6637ccfe2dc312bee703e201a49572"
+  dependencies:
+    yarn-install-bug-test-b "https://github.com/cinderblock/yarn-install-bug-test.git#b"
+
+"yarn-install-bug-test-b@https://github.com/cinderblock/yarn-install-bug-test.git#b":
+  version "0.0.0"
+  resolved "https://github.com/cinderblock/yarn-install-bug-test.git#d798955688697b2bef8dab1c4b715972b9107782"

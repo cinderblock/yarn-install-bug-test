@@ -10,6 +10,7 @@
   "author": "Cameron Tacklind <cameron@tacklind.com>",
   "license": "MIT",
   "dependencies": {
-    "yarn-install-bug-test": "https://github.com/cinderblock/yarn-install-bug-test.git"
+    "yarn-install-bug-test-a": "https://github.com/cinderblock/yarn-install-bug-test.git#a",
+    "yarn-install-bug-test-b": "https://github.com/cinderblock/yarn-install-bug-test.git#b"
   }
 }
